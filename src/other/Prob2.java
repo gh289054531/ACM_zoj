@@ -1,3 +1,5 @@
+package other;
+
 //求串的最长回文子串
 public class Prob2 {
 

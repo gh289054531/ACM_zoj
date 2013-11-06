@@ -1,2 +1,12 @@
-1 3 5 -1
-2 4 6 8 10 -1
+6 5
+John
+  Robert
+    Frank
+    Andrew
+  Nancy
+    David
+Robert is a child of John
+Robert is an ancestor of Andrew
+Robert is a sibling of Nancy
+Nancy is the parent of Frank
+John is a descendant of Andrew

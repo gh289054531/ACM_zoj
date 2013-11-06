@@ -1,3 +1,5 @@
+package other;
+
 import java.util.LinkedList;
 
 /*求一个字符串中最长的、不包含重复字符的子串。比如 abcda ，答案可以是 abcd 或者 bcda */

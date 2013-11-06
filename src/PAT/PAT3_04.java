@@ -1,3 +1,5 @@
+package PAT;
+
 import java.io.BufferedInputStream;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
