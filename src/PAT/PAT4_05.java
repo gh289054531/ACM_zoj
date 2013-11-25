@@ -1,4 +1,4 @@
-//×îºóÒ»¸öcase³¬Ê±
+//ï¿½ï¿½ï¿½Ò»ï¿½ï¿½caseï¿½ï¿½Ê±
 
 package PAT;
 
@@ -11,7 +11,7 @@ public class PAT4_05 {
 		String name;
 		Node left, right;
 
-		public Node(String name) {
+		public Node(String name){
 			this.name = name;
 			this.left = null;
 			this.right = null;
